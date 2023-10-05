@@ -1,0 +1,8 @@
+[04-Oct-2023 19:06:42 UTC] PHP Parse error:  syntax error, unexpected 'height' (T_STRING), expecting ')' in /Users/lucasvidal/Sites/website-01/wp-content/themes/generatepress/functions.php on line 35
+[04-Oct-2023 19:06:43 UTC] PHP Parse error:  syntax error, unexpected 'height' (T_STRING), expecting ')' in /Users/lucasvidal/Sites/website-01/wp-content/themes/generatepress/functions.php on line 35
+[05-Oct-2023 11:01:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/lucasvidal/Sites/website-01/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 11:02:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/lucasvidal/Sites/website-01/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 11:02:56 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/lucasvidal/Sites/website-01/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 11:04:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/lucasvidal/Sites/website-01/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 11:04:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Users/lucasvidal/Sites/website-01/wp-includes/class-wpdb.php on line 2035
+[05-Oct-2023 11:05:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /Users/lucasvidal/Sites/website-01/wp-includes/class-wpdb.php on line 2035
